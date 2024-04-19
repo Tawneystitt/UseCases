@@ -1,4 +1,4 @@
-<h1>RTM</h1>
+
 
 <h2>Description</h2>
 A example of Use Cases Created for a nonprofit company, done in a group:
